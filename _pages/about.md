@@ -8,15 +8,6 @@ redirect_from:
 ---
 
 ---
-author_profile: true
-title: "Personal Portfolio"
-layout: single
----
-
-{% capture written_rule %}{% include written_rule.html %}{% endcapture %}
-
-{{ written_rule }}
-
 # About Me
 
 I am a **Senior Undergraduate Student** at Xi'an Jiaotong University, pursuing a Bachelor's degree in [Your Major]. With a profound passion for learning and innovation, I am dedicated to exploring the frontiers of knowledge in my field.
